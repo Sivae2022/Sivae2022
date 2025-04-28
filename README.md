@@ -1,3 +1,4 @@
+![Dynamic Gradient Background](https://media.giphy.com/media/3o6nV8cZkt63FL79y0/giphy.gif)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=992&color=260CDC&width=435&lines=Hello+World+!!!;I+am+Siva+E;Full+Stack+Developer;Final+Year+CSE+Student)](https://git.io/typing-svg)
