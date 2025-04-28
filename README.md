@@ -1,4 +1,3 @@
-![Gradient Background](https://your-image-host-url.com/gradient-right-to-left.png)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=992&color=260CDC&width=435&lines=Hello+World+!!!;I+am+Siva+E;Full+Stack+Developer;Final+Year+CSE+Student)](https://git.io/typing-svg)
