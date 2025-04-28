@@ -1,7 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=992&color=260CDC&width=435&lines=Hello+World+!!!;I+am+Siva+E;Full+Stack+Developer;Final+Year+CSE+Student)](https://git.io/typing-svg)
 
-# 💫 About Me:
-🚀 Hi, I'm Siva — a passionate Computer Science Engineering student in my final year.<br>🔧 Skilled in Web Technologies like MERN stack and Java Spring Boot.<br>🧠 Avid problem solver with a strong drive to learn and grow every day.<br>💡 I love building efficient solutions, exploring new tech, and pushing my boundaries.<br><br>Let's connect and innovate together!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=992&color=260CDC&width=435&lines=Hello+World+!!!;I+am+Siva+E;Full+Stack+Developer;Final+Year+CSE+Student)](https://git.io/typing-svg)
 # 💫 About Me:
