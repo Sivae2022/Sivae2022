@@ -6,7 +6,11 @@
 
 
 # 💫 About Me:
-🚀 Hi, I'm Siva — a passionate Computer Science Engineering student in my final year.<br>🔧 Skilled in Web Technologies like MERN stack and Java Spring Boot.<br>🧠 Avid problem solver with a strong drive to learn and grow every day.<br>💡 I love building efficient solutions, exploring new tech, and pushing my boundaries.
+💻 Proficient in Web Development using the MERN Stack and Java Spring Boot
+
+🧠 Strong problem-solving skills with a deep interest in data structures and algorithms
+
+⚙️ Enthusiastic about writing clean, scalable, and efficient code
 
 
 ## 🌐 Socials:
